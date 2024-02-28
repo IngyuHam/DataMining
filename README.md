@@ -9,6 +9,7 @@
 ## B. 진행 과정 
 ### 0. 데이터 출처
 [Kaggle Dataset : Water quality](https://www.kaggle.com/datasets/mssmartypants/water-quality)
+\
 본 프로젝트에서 활용한 데이터셋은 Kaggle에 배포되어 있는 수질 데이터입니다. 
 
 ### 1. 전처리
